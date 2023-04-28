@@ -9,8 +9,8 @@ and JavaScript. Along the way, i'm also mastering the
 art of working with GitHub 😎
 
 - 📫 How to reach me:
-loonatune@gmail.com
-https://github.com/LeonZuev
+  * Email: loonatune@gmail.com
+  * GitHub: [LeonZuev](https://github.com/LeonZuev)
 
 - - -
 ### Languages and Technologies:
