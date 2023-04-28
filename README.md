@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**LeonZuev/LeonZuev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying at the Ait IT school,
+delving into various aspects of programming.
+Eager to explore beyond the horizon, i've alresdy completed
+a basic Java cours. Now, i've embarked on my journey into
+the world of Front-end development, learning HTML, CSS 
+and JavaScript. Along the way, i'm also mastering the
+art of working with GitHub 😎
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+loonatune@gmail.com
+https://github.com/LeonZuev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+### Languages and Technologies:
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
