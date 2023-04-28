@@ -11,6 +11,7 @@ art of working with GitHub 😎
 - 📫 How to reach me:
   * Email: loonatune@gmail.com
   * GitHub: [LeonZuev](https://github.com/LeonZuev)
+  * LinkedIn [LeonZuev](https://www.linkedin.com/in/leon-zuev-63045b273/)
 
 - - -
 ### Languages and Technologies:
