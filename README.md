@@ -9,7 +9,7 @@ and JavaScript. Along the way, i'm also mastering the
 art of working with GitHub 😎
 
 - 📫 How to reach me:
-  * [E-mail](loonatune@gmail.com)
+  * [E-mail](mailto:loonatune@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/leon-zuev-63045b273/)
 
 - - -
