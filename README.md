@@ -13,7 +13,7 @@ art of working with GitHub 😎
   * [LinkedIn](https://www.linkedin.com/in/leon-zuev-63045b273/)
 
 - - -
-### Languages and Technologies:
+### Languages and Technologies in progress:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
