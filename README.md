@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently studying at the Ait IT school,
+I'm currently studying at the Ait Berlin IT school,
 delving into various aspects of programming.
-Eager to explore beyond the horizon, i've alresdy completed
+Eager to explore beyond the horizon, i've already completed
 a basic Java cours. Now, i've embarked on my journey into
 the world of Front-end development, learning HTML, CSS 
 and JavaScript. Along the way, i'm also mastering the
